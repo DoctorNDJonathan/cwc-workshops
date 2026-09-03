@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
-    "express": "^4.19.2",
+    "express": "^5.2.1",
     "qrcode-generator": "^2.0.4",
     "ws": "^8.18.0"
   }
